@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kajisha",
+      "name": "kajisha",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1960696?v=4",
+      "profile": "https://gihtub.com/kajisha",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "asdf-ghq",
+  "projectOwner": "kajisha",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
