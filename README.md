@@ -15,12 +15,11 @@
 - Make sure you have the required dependencies installed:
   - curl
   - unzip
-  - git
 
 # Installation
 
 ```bash
-asdf plugin-add ghq https://github.com/kajisha/asdf-ghq.git
+asdf plugin add ghq
 ```
 
 ## Usage
