@@ -38,18 +38,29 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/kajisha">
-      <img src="https://avatars0.githubusercontent.com/u/1960696?v=4" width="100px;" alt=""/>
+      <a href="https://github.com/kajisha">
+        <img src="https://avatars0.githubusercontent.com/u/1960696?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>kajisha</b>
+        </sub>
+      </a>
       <br />
-      <sub>
-        <b>kajisha</b>
-      </sub>
-    </a>
-    <br />
-    <a href="https://github.com/kajisha/asdf-ghq/commits?author=kajisha" title="Code">💻</a>
-    <a href="https://github.com/kajisha/asdf-ghq/commits?author=kajisha" title="Documentation">📖</a>
-    <a href="#maintenance-kajisha" title="Maintenance">🚧</a>
-    <a href="#infra-kajisha" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a>
+      <a href="https://github.com/kajisha/asdf-ghq/commits?author=kajisha" title="Code">💻</a>
+      <a href="https://github.com/kajisha/asdf-ghq/commits?author=kajisha" title="Documentation">📖</a>
+      <a href="#maintenance-kajisha" title="Maintenance">🚧</a>
+      <a href="#infra-kajisha" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jessebye">
+        <img src="https://avatars.githubusercontent.com/u/8467862?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>jessebye</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/kajisha/asdf-ghq/commits?author=jessebye" title="Code">💻</a>
     </td>
   </tr>
 </table>
