@@ -62,6 +62,17 @@ Thanks goes to these wonderful people
       <br />
       <a href="https://github.com/kajisha/asdf-ghq/commits?author=jessebye" title="Code">💻</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/t-mario-y">
+        <img src="https://avatars.githubusercontent.com/u/16183860?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>t-mario-y</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/kajisha/asdf-ghq/commits?author=t-mario-y" title="Code">💻</a>
+    </td>
   </tr>
 </table>
 
